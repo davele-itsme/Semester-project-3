@@ -7,6 +7,7 @@
     A student approach to software development project management tools.
     <br />
     <a href="https://drive.google.com/file/d/1h2cLj1pzEAhUC4m7TYT2P2HXZQH1-rGA/view?usp=sharing"><strong>Explore the project report »</strong></a>
+    <br/>
     <a href="https://drive.google.com/file/d/1-lVEbOgG-SKqOaqZsePi81gwF9fyLYex/view?usp=sharing"><strong>Explore the user manual »</strong></a>
     <br />
   </p>
