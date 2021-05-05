@@ -1,7 +1,9 @@
 <!-- INTRODUCTION -->
 <br />
 <p align="center">
+<a href="https://drive.google.com/file/d/1-lVEbOgG-SKqOaqZsePi81gwF9fyLYex/view?usp=sharing">
     <img src="https://user-images.githubusercontent.com/42817904/117194582-8aef0100-ade4-11eb-8d9d-5cfd98d60e9e.png"/>
+    </a>
   <h2 align="center">SCRUM UP</h2>
   <p align="center">
     A student approach to software development project management tools.
