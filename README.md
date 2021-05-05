@@ -42,6 +42,8 @@ This particular framework is recommended to be used by the 2nd Semester students
 
 Key features of SCRUM are that core-architecture elements of the system are being released through iterations (Sprints) and that the team is flexible and customer-oriented being able to bring alterations to the system through each iteration. 
 
+Since many students starting to learn this framework are having hard times understanding it properly, this project is about to make it easier for them.
+
 
 <strong>Features:</strong>
 * Provide roles creation and privileges: Each user has a certain role and a certain degree of authority and credentials in the system. 
